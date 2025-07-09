@@ -1,6 +1,6 @@
 # CH340-driver-v3.5
 CH340 driver v3.5 for windows
-If your NodeMCU v1.0(ESP-12E) board cause following error, uninstall your CH340 driver and install this driver:
+If your NodeMCU v1.0(ESP-12E) board cause following error, uninstall your CH340 driver and [install this driver](/CH341SER.EXE):
 ```
 esptool.py v4.9.0
 
